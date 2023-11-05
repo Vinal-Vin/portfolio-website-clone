@@ -1,4 +1,4 @@
-import Hero from '@/compnents/main/hero'
+import Hero from '@/components/main/hero'
 import Image from 'next/image'
 
 export default function Home() {
